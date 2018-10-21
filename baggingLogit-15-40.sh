@@ -1,0 +1,10 @@
+./baggingLogit.py ./input-15 ./baggingLogit-15-40 40 10
+./baggingLogit.py ./input-15 ./baggingLogit-15-40 40 9
+./baggingLogit.py ./input-15 ./baggingLogit-15-40 40 8
+./baggingLogit.py ./input-15 ./baggingLogit-15-40 40 7
+./baggingLogit.py ./input-15 ./baggingLogit-15-40 40 6
+./baggingLogit.py ./input-15 ./baggingLogit-15-40 40 5
+./baggingLogit.py ./input-15 ./baggingLogit-15-40 40 4
+./baggingLogit.py ./input-15 ./baggingLogit-15-40 40 3
+./baggingLogit.py ./input-15 ./baggingLogit-15-40 40 2
+./baggingLogit.py ./input-15 ./baggingLogit-15-40 40 1
